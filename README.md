@@ -24,7 +24,7 @@ Hi, I'm **Sharmila Sri**, an aspiring Full Stack Developer passionate about buil
 
 🔗 Live Demo
 
-👉 [https://siri7909.github.io/FUTURE_FS_01]
+👉 [https://siri7909.github.io/FUTURE_FS_01/]
 
 💻 GitHub Repository
 
